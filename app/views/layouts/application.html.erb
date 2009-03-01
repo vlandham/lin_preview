@@ -10,31 +10,55 @@
   <!--[if IE]>
     <link rel="stylesheet" href="stylesheets/blueprint/ie.css" type="text/css" media="screen, projection">
   <![endif]-->
+  
   <%= stylesheet_link_tag 'site' %>
+  
+ 
   <%= javascript_include_tag :all %>
+  
   <%= calendar_date_select_includes "silver" %>
+  <%= javascript_include_tag "curvycorners" %>
+
 </head>
 <body>
 <div id="container">
   <div id="header">
     <div class="site">
       <div id="logo">
-        <%= image_tag "lincoln_logo_transparent.png" %>
+        <%= image_tag "lincoln_logo_transparent_red.png" %>
       </div>
     </div>
   </div>
   <div id="navbar">
     <div class="site">
       <ul>
-        <li><a href="">Link 1</a></li>
-        <li><a href="">Link 2</a></li>
-        <li><a href="">Link 3</a></li>
+        <li><a class="active" href="">All</a></li>
+        <li><a href="">Groups</a></li>
+        <li><a href="">Admin</a></li>
       </ul>
     </div>
   </div>
   <div class="site">
-    <div id="controls">
-      <%= calendar_date_select_tag "p_date_and_time", nil, :time => true  %>
+    <div class="rounded" id="controls">
+      <div id="start-control">
+        <p>Start</p>
+        <%= calendar_date_select_tag "p_date_and_time", nil, :time => true  %>
+      </div>
+      <div id="end-control">
+        <p>End</p>
+        <%= calendar_date_select_tag "p_date_and_time", nil, :time => true  %>        
+      </div>
+      <div id="groups-control">
+        <p>Groups</p>
+        <div id="groups-chooser">
+          <ul>
+          <li><%= check_box_tag 'Group 1', 1 %> Group 1</li>
+          <li><%= check_box_tag 'Group 1', 1 %> Group 2</li>
+          <li><%= check_box_tag 'Group 1', 1 %> Group 3</li>          
+          <li><%= check_box_tag 'Group 1', 1 %> Group 4</li>          
+          </ul>
+        </div>
+      </div>
     </div>
     
   </div>

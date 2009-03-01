@@ -895,3 +895,1110 @@ Processing GroupsController#index (for 127.0.0.1 at 2009-02-26 23:52:26) [GET]
 Rendering template within layouts/application
 Rendering groups/index
 Completed in 10ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 15:40:19) [GET]
+  [4;36;1mGroup Load (0.4ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 15:47:19) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 15:47:36) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 15:55:21) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 15:57:08) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 15:57:17) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 15:57:43) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 15:57:48) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 15:58:03) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 15:58:54) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 15:59:31) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 15:59:43) [GET]
+  [4;36;1mGroup Load (0.5ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 5, DB: 1) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:00:47) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:01:39) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:01:57) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:01:59) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:02:00) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:02:06) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:02:07) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:02:15) [GET]
+  [4;36;1mGroup Load (1.4ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 5, DB: 1) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:02:22) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:02:23) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:02:28) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:02:29) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 21ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:02:52) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:03:03) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 11ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:03:08) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:03:13) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:03:18) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:03:23) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:03:42) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:03:49) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:03:50) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:04:00) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:04:32) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:04:35) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:04:41) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:04:52) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:05:08) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:05:41) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:05:52) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:06:44) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:07:29) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:08:25) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:08:33) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:08:46) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:08:47) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:09:28) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:10:02) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:10:19) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:10:31) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:10:44) [GET]
+  [4;36;1mGroup Load (0.4ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:12:00) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:12:21) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:12:34) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 62ms (View: 59, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:13:52) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:14:01) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:14:12) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:14:30) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:14:36) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:14:51) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:14:57) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 62ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:15:03) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:15:59) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:16:14) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:16:53) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:18:32) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:18:44) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:23:06) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:26:03) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:27:14) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+
+
+ActionView::TemplateError (No expansion found for :default) on line #19 of app/views/layouts/application.html.erb:
+16:   <%= javascript_include_tag "jquery.js" %>
+17:   <%= javascript_include_tag "jquery.corners.js" %>
+18:   
+19:   <%= javascript_include_tag :default %>
+20:   <%= calendar_date_select_includes "silver" %>
+21: 
+22: </head>
+
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:726:in `determine_source'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:733:in `validate_sources!'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:733:in `collect'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:733:in `validate_sources!'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:775:in `_unmemoized_expand_sources'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/memoizable.rb:57:in `expand_sources'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/memoizable.rb:25:in `__send__'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/memoizable.rb:25:in `memoize_all'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/memoizable.rb:22:in `each'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/memoizable.rb:22:in `memoize_all'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/memoizable.rb:17:in `freeze'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:702:in `create'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:700:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:700:in `create'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:257:in `javascript_include_tag'
+    app/views/layouts/application.html.erb:19
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `send'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:73:in `render_template'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:256:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:371:in `_render_with_layout'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:254:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1174:in `render_for_file'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:905:in `render_without_benchmark'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `send'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `custom'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `call'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `respond'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `respond'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:107:in `respond_to'
+    app/controllers/groups_controller.rb:7:in `index'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `send'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `perform_action_without_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /Library/Ruby/Gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /Library/Ruby/Gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load'
+    /Library/Ruby/Gems/1.8/gems/rails-2.2.2/lib/commands/servers/mongrel.rb:64
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /Library/Ruby/Gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_trace (100.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_request_and_response (0.6ms)
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:27:20) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:28:06) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:28:29) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:29:00) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:29:16) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:29:20) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:29:41) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:30:34) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:30:55) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:31:38) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:32:19) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:32:31) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:33:01) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:33:02) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 66ms (View: 62, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:33:36) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:33:38) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:33:46) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:38:05) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:38:34) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:38:43) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:38:56) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:41:47) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:41:54) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:41:55) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:42:11) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:42:17) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:42:18) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:42:34) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:42:36) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:42:42) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:42:43) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:43:13) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:43:24) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:43:26) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:43:39) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:43:40) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:43:47) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:43:55) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:45:23) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:46:11) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:46:21) [GET]
+  [4;36;1mGroup Load (0.4ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 62ms (View: 59, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:46:46) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:47:42) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:47:54) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 11ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:47:55) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:48:01) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:48:05) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:48:12) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:48:23) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:48:31) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:48:53) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:49:09) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:49:27) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:50:11) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 62ms (View: 58, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:50:16) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:50:22) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:50:45) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:51:14) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:51:21) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:52:09) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:52:10) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:52:34) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:52:35) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:53:23) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:53:30) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:53:57) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:54:04) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 66ms (View: 62, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:54:16) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:54:35) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:54:40) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:54:48) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-01 16:55:39) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
