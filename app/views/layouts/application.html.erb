@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title>Lincoln: <%= controller.action_name %></title>
+  <link rel="stylesheet" href="stylesheets/blueprint/screen.css" type="text/css" media="screen, projection">
+  <link rel="stylesheet" href="stylesheets/blueprint/print.css" type="text/css" media="print"> 
+  <!--[if IE]>
+    <link rel="stylesheet" href="stylesheets/blueprint/ie.css" type="text/css" media="screen, projection">
+  <![endif]-->
+  <%= stylesheet_link_tag 'site' %>
+  <%= javascript_include_tag :all %>
+  <%= calendar_date_select_includes "silver" %>
+</head>
+<body>
+<div id="container">
+  <div id="header">
+    <div class="site">
+      <div id="logo">
+        <%= image_tag "lincoln_logo_transparent.png" %>
+      </div>
+    </div>
+  </div>
+  <div id="navbar">
+    <div class="site">
+      <ul>
+        <li><a href="">Link 1</a></li>
+        <li><a href="">Link 2</a></li>
+        <li><a href="">Link 3</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="site">
+    <div id="controls">
+      <%= calendar_date_select_tag "p_date_and_time", nil, :time => true  %>
+    </div>
+    
+  </div>
+  <div id="content">
+    <div class="site">
+      
+      <p style="color: green"><%= flash[:notice] %></p>
+
+      <%= yield  %>
+    </div>
+  </div>
+  <div id="footer">
+    <div class="site">
+          <p>This is the footer</p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
