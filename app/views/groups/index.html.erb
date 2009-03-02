@@ -1,24 +1,35 @@
 <h1>Traffic Comparison</h1>
 
-<%= image_tag "graph1.png" %>
+<%= @graph %>
 
-<!-- <h1>Listing groups</h1>
+<div class="clearbox">
+</div>
 
-<table>
-  <tr>
-    <th>Name</th>
-  </tr>
+<div class="clearbox">
+  
+</div>
+<h1>Other Data</h1>
+<div class="column span-6 first">
+  <%= @graph_pie %>
+</div>
+<div class="column span-6">
+   <%= @graph_pie2 %>
+</div>
+<div class="column span-6">
+   <%= @graph_pie3 %>
+</div>
+<div class="column span-6 last">
+   <%= @graph_pie4 %>
+</div>
 
-<% for group in @groups %>
-  <tr>
-    <td><%=h group.name %></td>
-    <td><%= link_to 'Show', group %></td>
-    <td><%= link_to 'Edit', edit_group_path(group) %></td>
-    <td><%= link_to 'Destroy', group, :confirm => 'Are you sure?', :method => :delete %></td>
-  </tr>
-<% end %>
-</table>
+<div class="clearbox">
+  
+</div>
 
-<br />
+<h1>Still More Data</h1>
 
-<%= link_to 'New group', new_group_path %> -->
+<%= @long_graph %>
+
+<div class="clearbox">
+  
+</div>

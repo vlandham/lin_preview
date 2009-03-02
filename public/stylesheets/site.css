@@ -38,7 +38,7 @@ a {
 #controls {
   float: right;
   margin-top: 1.6em;
-  width: 35em;
+  width: 33em;
   background-color: #B3C4D4;
   color: #aaaacc;
   height: 100%;
@@ -100,7 +100,7 @@ a {
 
 
 .site {
-  width: 75em;
+  width: 80em;
   margin-top: 0pt;
   margin-right: auto;
   margin-bottom: 0pt;
@@ -167,6 +167,23 @@ pre {
   background-color: #eee;
   padding: 10px;
   font-size: 11px;
+}
+
+#footer {
+/*  clear: both;*/
+  background-color: #333333;
+  height: 3.4em;
+}
+
+#footer p {
+  padding-top:0.6em;
+  color: #979797;
+}
+
+.clearbox {
+  clear:both;
+  height: 20px;
+  width:100%;
 }
 
 /*********************
