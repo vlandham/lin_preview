@@ -1,6 +1,13 @@
 <h1>Traffic Comparison</h1>
+<div class="column span-13 first last">
+<%= @graph.js_open_flash_chart_object("my_chart_js_1", 500,300) %>
+<div id="switch-control">
+  <%= @graph.link_to_ofc_load("Packets", "my_chart_js_1") %> ||
+  <%= @graph.link_to_remote_ofc_load("Data", "my_chart_js_1", "/groups/data_traffic") %>
+</div>
+</div>
 
-<%= @graph %>
+
 
 <div class="clearbox">
 </div>
@@ -8,7 +15,11 @@
 <div class="clearbox">
   
 </div>
+
+  
+
 <h1>Other Data</h1>
+<div class="center">
 <div class="column span-6 first">
   <%= @graph_pie %>
 </div>
@@ -21,14 +32,16 @@
 <div class="column span-6 last">
    <%= @graph_pie4 %>
 </div>
-
+</div>
 <div class="clearbox">
   
 </div>
 
 <h1>Still More Data</h1>
 
-<%= @long_graph %>
+<div class="center">
+  <%= @long_graph %>
+</div>
 
 <div class="clearbox">
   

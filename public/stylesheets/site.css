@@ -98,6 +98,12 @@ a {
   padding-bottom: 0.4em;
 }
 
+#switch-control {
+  padding-top: 15px;
+  text-align:center;
+  font-size: 120%;
+}
+
 
 .site {
   width: 80em;
@@ -184,6 +190,11 @@ pre {
   clear:both;
   height: 20px;
   width:100%;
+}
+
+.center {
+  margin:auto;
+  height:100%;
 }
 
 /*********************

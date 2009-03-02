@@ -4992,3 +4992,1048 @@ Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
 
 Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-01 19:56:59) [GET]
 Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:35:37) [GET]
+  [4;36;1mGroup Load (0.4ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 45ms (View: 35, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index to json (for 127.0.0.1 at 2009-03-02 07:35:38) [GET]
+  [4;35;1mGroup Load (0.4ms)[0m   [0mSELECT * FROM "groups" [0m
+Completed in 11ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups?format=json]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:35:39) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:35:39) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:35:39) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:35:39) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:35:39) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:37:47) [GET]
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:37:58) [GET]
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:38:08) [GET]
+  [4;36;1mGroup Load (0.4ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 12ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index to json (for 127.0.0.1 at 2009-03-02 07:38:09) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Completed in 11ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/groups?format=json]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:38:09) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:38:09) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:38:09) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:38:09) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:38:09) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:38:34) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 11ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:38:36) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index to json (for 127.0.0.1 at 2009-03-02 07:38:36) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/groups?format=json]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:38:36) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:38:36) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:38:36) [GET]
+Completed in 54ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:38:36) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:42:07) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 13ms (View: 7, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:42:08) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index to json (for 127.0.0.1 at 2009-03-02 07:42:08) [GET]
+  [4;35;1mGroup Load (0.5ms)[0m   [0mSELECT * FROM "groups" [0m
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups?format=json]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:42:08) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:42:08) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:42:08) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:42:08) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:43:55) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 11ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:43:56) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#index to json (for 127.0.0.1 at 2009-03-02 07:43:56) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Completed in 11ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/groups?format=json]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:43:56) [GET]
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:43:56) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:43:56) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:43:56) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:44:02) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 11ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index to json (for 127.0.0.1 at 2009-03-02 07:44:03) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/groups?format=json]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:44:03) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:44:03) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:44:03) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:44:03) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:44:03) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:44:25) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 11ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index to json (for 127.0.0.1 at 2009-03-02 07:44:27) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Completed in 10ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/groups?format=json]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:44:27) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:44:27) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:44:27) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:44:27) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:44:27) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:45:24) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 12ms (View: 7, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index to json (for 127.0.0.1 at 2009-03-02 07:45:25) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/groups?format=json]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:45:25) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:45:26) [GET]
+Completed in 60ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:45:26) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:45:26) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:45:26) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:46:39) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#index to json (for 127.0.0.1 at 2009-03-02 07:46:40) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Completed in 10ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/groups?format=json]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:46:40) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:46:40) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:46:40) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:46:40) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:46:40) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:51:26) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+
+
+ActionView::TemplateError (undefined method `js_open_flash_chart_object' for #<String:0x1f265ec>) on line #2 of app/views/groups/index.html.erb:
+1: <h1>Traffic Comparison</h1>
+2: <%= @graph.js_open_flash_chart_object("my_chart_js_1", 550,300) %>
+3: <br/>
+4: <%= @graph.link_to_ofc_load("Load Original Chart", "my_chart_js_1") %> ||
+5: <%= @graph.link_to_remote_ofc_load("Load Chart from server data", "my_chart_js_1", "/test_it/some_server_data") %>
+
+    app/views/groups/index.html.erb:2
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `send'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:73:in `render_template'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:256:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:367:in `_render_with_layout'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:254:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1174:in `render_for_file'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:896:in `render_without_benchmark'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:868:in `render_without_benchmark'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1248:in `default_render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1254:in `perform_action_without_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /Library/Ruby/Gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /Library/Ruby/Gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load'
+    /Library/Ruby/Gems/1.8/gems/rails-2.2.2/lib/commands/servers/mongrel.rb:64
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /Library/Ruby/Gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_trace (31.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_request_and_response (0.6ms)
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:53:24) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 20ms (View: 15, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:53:25) [GET]
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:53:25) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:53:25) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:53:25) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:53:25) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-03-02 07:53:33) [GET]
+
+
+ActionController::RoutingError (No route matches "/test_it/some_server_data" with {:method=>:get}):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load'
+    /Library/Ruby/Gems/1.8/gems/rails-2.2.2/lib/commands/servers/mongrel.rb:64
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /Library/Ruby/Gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    ./script/server:3
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:54:44) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 19ms (View: 14, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:54:46) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:54:46) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:54:46) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:54:46) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:54:46) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#data_traffic (for 127.0.0.1 at 2009-03-02 07:54:47) [GET]
+Rendering groups/data_traffic
+
+
+ActionView::MissingTemplate (Missing template groups/data_traffic.erb in view path /Users/vlandham/Sites/lin_preview/app/views:):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:95:in `find_full_path'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:16:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:332:in `new'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:332:in `_unmemoized__pick_template'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/memoizable.rb:70:in `_pick_template'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:256:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1174:in `render_for_file'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:896:in `render_without_benchmark'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:868:in `render_without_benchmark'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1248:in `default_render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1254:in `perform_action_without_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /Library/Ruby/Gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /Library/Ruby/Gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load'
+    /Library/Ruby/Gems/1.8/gems/rails-2.2.2/lib/commands/servers/mongrel.rb:64
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /Library/Ruby/Gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    ./script/server:3
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing GroupsController#data_traffic (for 127.0.0.1 at 2009-03-02 07:54:57) [GET]
+Rendering groups/data_traffic
+
+
+ActionView::MissingTemplate (Missing template groups/data_traffic.erb in view path /Users/vlandham/Sites/lin_preview/app/views:):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:95:in `find_full_path'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:16:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:332:in `new'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:332:in `_unmemoized__pick_template'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/memoizable.rb:70:in `_pick_template'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:256:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1174:in `render_for_file'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:896:in `render_without_benchmark'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:868:in `render_without_benchmark'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1248:in `default_render'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1254:in `perform_action_without_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /Library/Ruby/Gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /Library/Ruby/Gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:142:in `load'
+    /Library/Ruby/Gems/1.8/gems/rails-2.2.2/lib/commands/servers/mongrel.rb:64
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /Library/Ruby/Gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    ./script/server:3
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:55:49) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 79ms (View: 75, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:55:51) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:55:51) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:55:51) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:55:51) [GET]
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:55:51) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#data_traffic (for 127.0.0.1 at 2009-03-02 07:55:52) [GET]
+Completed in 6ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/data_traffic]
+
+
+Processing GroupsController#data_traffic (for 127.0.0.1 at 2009-03-02 07:55:55) [GET]
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/data_traffic]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:56:44) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 19ms (View: 14, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:56:46) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:56:46) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:56:46) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:56:46) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:56:46) [GET]
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:57:12) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 20ms (View: 15, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:57:14) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:57:14) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:57:14) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:57:14) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:57:14) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:57:18) [GET]
+  [4;36;1mGroup Load (0.5ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 20ms (View: 15, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:57:20) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:57:20) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:57:20) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:57:20) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:57:20) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:57:56) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 20ms (View: 15, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:57:58) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:57:58) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:57:58) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:57:58) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:57:58) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:58:04) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 18ms (View: 13, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:58:05) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:58:05) [GET]
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:58:05) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:58:05) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:58:05) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:59:40) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 19ms (View: 15, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:59:41) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:59:41) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:59:41) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:59:41) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:59:41) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 07:59:58) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 21ms (View: 16, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 07:59:59) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 07:59:59) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 07:59:59) [GET]
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 07:59:59) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 07:59:59) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 08:00:16) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 19ms (View: 15, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 08:00:18) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 08:00:18) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 08:00:18) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 08:00:18) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 08:00:18) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#data_traffic (for 127.0.0.1 at 2009-03-02 08:00:55) [GET]
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/data_traffic]
+
+
+Processing GroupsController#data_traffic (for 127.0.0.1 at 2009-03-02 08:00:57) [GET]
+Completed in 6ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/data_traffic]
+
+
+Processing GroupsController#data_traffic (for 127.0.0.1 at 2009-03-02 08:01:00) [GET]
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/data_traffic]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 08:14:48) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 19ms (View: 14, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 08:14:49) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 08:14:49) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 08:14:49) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 08:14:49) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 08:14:50) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 08:15:34) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 18ms (View: 14, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 08:15:35) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 08:15:35) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 08:15:35) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 08:15:35) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 08:15:35) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 08:16:02) [GET]
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 20ms (View: 15, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 08:16:03) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 08:16:04) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 08:16:04) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 08:16:04) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 08:16:04) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#index (for 127.0.0.1 at 2009-03-02 08:17:34) [GET]
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM "groups" [0m
+Rendering template within layouts/application
+Rendering groups/index
+Completed in 20ms (View: 15, DB: 0) | 200 OK [http://127.0.0.1/groups]
+
+
+Processing GroupsController#pie_chart (for 127.0.0.1 at 2009-03-02 08:17:35) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart]
+
+
+Processing GroupsController#pie_chart3 (for 127.0.0.1 at 2009-03-02 08:17:35) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart3]
+
+
+Processing GroupsController#pie_chart2 (for 127.0.0.1 at 2009-03-02 08:17:35) [GET]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart2]
+
+
+Processing GroupsController#pie_chart4 (for 127.0.0.1 at 2009-03-02 08:17:35) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/pie_chart4]
+
+
+Processing GroupsController#long_graph (for 127.0.0.1 at 2009-03-02 08:17:35) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/long_graph]
+
+
+Processing GroupsController#data_traffic (for 127.0.0.1 at 2009-03-02 08:17:37) [GET]
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/data_traffic]
+
+
+Processing GroupsController#data_traffic (for 127.0.0.1 at 2009-03-02 08:17:38) [GET]
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/data_traffic]
+
+
+Processing GroupsController#data_traffic (for 127.0.0.1 at 2009-03-02 08:17:41) [GET]
+Completed in 6ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/data_traffic]
+
+
+Processing GroupsController#data_traffic (for 127.0.0.1 at 2009-03-02 08:17:43) [GET]
+Completed in 6ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/groups/data_traffic]

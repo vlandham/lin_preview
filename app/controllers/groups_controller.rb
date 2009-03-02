@@ -6,18 +6,49 @@ class GroupsController < ApplicationController
 
     respond_to do |wants|
       wants.html {
-              @graph = open_flash_chart_object( 500, 300, url_for( :action => 'index', :format => :json ) )
+              @graph = graph_code
               @graph_pie = open_flash_chart_object(200,200, url_for(:action => "pie_chart"))
               @graph_pie2 =open_flash_chart_object(200,200, url_for(:action => "pie_chart2"))
               @graph_pie3 =open_flash_chart_object(200,200, url_for(:action => "pie_chart3"))
               @graph_pie4 =open_flash_chart_object(200,200, url_for(:action => "pie_chart4"))
-              @long_graph=open_flash_chart_object(900,200, url_for(:action => "long_graph"))
+              @long_graph=open_flash_chart_object(920,200, url_for(:action => "long_graph"))
             }
             wants.json { 
               chart = graph_code
               render :text => chart, :layout => false
             }
     end
+  end
+  
+  def data_traffic
+    grid_color = '#979797'
+     chart = OpenFlashChart.new
+     title = Title.new("Data vs Time")
+     chart.set_title(title)
+     chart.colour = '#E7E7E7'
+     
+       s = ScatterLine.new( '#CCE691',2)
+       # s.values = [ScatterValue.new(50,30)]
+       25.times do |x|
+            s.append_value(ScatterValue.new(x*30, x*rand(40)))
+       end
+       chart.add_element(s)
+       s = ScatterLine.new( '#C12691',2)
+       25.times do |x|
+             s.append_value(ScatterValue.new(x*30, x*rand(50)))
+        end
+       chart.add_element(s)
+       x = XAxis.new
+       x.set_range(0,650,100)
+       x.colour = grid_color
+       x.set_grid_colour grid_color
+       chart.set_x_axis(x)
+       y = YAxis.new
+       y.set_range(0,800,200)
+       y.colour = grid_color
+       y.set_grid_colour grid_color
+       chart.set_y_axis(y)
+       render :text => chart.to_s
   end
   
   def graph_code
